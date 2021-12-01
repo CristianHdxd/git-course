@@ -1,4 +1,4 @@
-from scr.app import app
+from src.app import app
 
 HOST="localhost"
 PORT=4000
